@@ -70,6 +70,6 @@ streamlit run app.py
 
 Initiate a UI interface to ask questions.
 
-![image](./images/chatbot_1.png)
-
-![image](./images/chatbot_2.png)
+<img src="./images/chatbot_1.png" alt="System Diagram" width="800" >
+<img src="./images/chatbot_2.png" alt="System Diagram" width="800" >
+<img src="./images/chatbot_3.png" alt="System Diagram" width="800" >
