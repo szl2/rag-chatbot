@@ -1,0 +1,5 @@
+test_questions = [
+    "If I'm not happy with my purchase, what is your refund policy and how do I start a return?",
+    "How long will delivery take for a standard order, and where can I track my package once it ships?",
+    "What's the quickest way to contact your support team, and what are your operating hours?",
+]
